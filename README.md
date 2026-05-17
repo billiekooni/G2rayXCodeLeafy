@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/79174a4a-ef86-4c1d-9f1a-909d0b29a248
   <img src="https://img.shields.io/badge/Platform-Codespaces-2DC94E?style=for-the-badge&logo=github&logoColor=white" alt="Platform"/>
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"/>
   <img src="https://img.shields.io/badge/Telegram-Support-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  <img src="https://img.shields.io/github/stars/Code-Leafy/G2ray-Panel?style=for-the-badge&color=yellow" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/stars/Code-Leafy/G2rayXCodeLeafy?style=for-the-badge&color=yellow" alt="GitHub Stars"/>
 </div>
 
 <br/>
@@ -187,8 +187,8 @@ copies or substantial portions of the Software.
 
 ### Made with ❤️ by [Code-Leafy](https://github.com/Code-Leafy)
 
-[![GitHub Stars](https://img.shields.io/github/stars/Code-Leafy/G2ray-Panel?style=social)](https://github.com/Code-Leafy/G2rayXCodeLeafy/stargazers)
-[![Forks](https://img.shields.io/github/forks/Code-Leafy/G2ray-Panel?style=social)](https://github.com/Code-Leafy/G2rayXCodeLeafy/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/Code-Leafy/G2rayXCodeLeafy?style=social)](https://github.com/Code-Leafy/G2rayXCodeLeafy/stargazers)
+[![Forks](https://img.shields.io/github/forks/Code-Leafy/G2rayXCodeLeafy?style=social)](https://github.com/Code-Leafy/G2rayXCodeLeafy/network/members)
 
 <br/>
 
